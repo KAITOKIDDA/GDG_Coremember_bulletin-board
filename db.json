@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "스파이더맨: 홍컴인",
+      "content": "살아남았다는 것은 강하다는 증거",
+      "createdAt": "2024-01-23T12:00:00.000Z",
+      "modifiedAt": "2024-09-29T19:02:12.066Z",
+      "author": "Peter Parker"
+    },
+    {
+      "id": 2,
+      "title": "어쩌구",
+      "content": "loeam ipsum 어쩌구",
+      "createdAt": "2024-01-23T12:10:00.000Z",
+      "modifiedAt": "2024-01-23T12:10:00.000Z",
+      "author": "누군가"
+    },
+    {
+      "id": "3",
+      "title": "저쩌구",
+      "content": "Lorem ipsum 저쩌구",
+      "createdAt": "2024-01-23T12:20:00.000Z",
+      "modifiedAt": "2024-01-23T12:20:00.000Z",
+      "author": "쟨가"
+    },
+    {
+      "id": "347a",
+      "title": "안녕",
+      "content": "내이름은혜인이야",
+      "createdAt": "2024-09-29T19:05:30.202Z",
+      "modifiedAt": "2024-09-29T19:05:30.202Z",
+      "author": "임의의 작성자"
+    },
+    {
+      "id": "212d",
+      "title": "학교종이땡땡땡",
+      "content": "교수님이우리를웨이팅하신다",
+      "createdAt": "2024-09-29T19:07:17.123Z",
+      "modifiedAt": "2024-09-29T19:29:53.832Z",
+      "author": "임의의 작성자"
+    }
+  ]
+}
